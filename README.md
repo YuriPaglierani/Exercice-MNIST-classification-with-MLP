@@ -1,4 +1,4 @@
-# Exercice MNIST classification with MLP
+# Exercise MNIST classification with MLP
 In these few rows of code is shown how to make a classification of the MNIST dataset using a Multilayer Perceptron.
 
 To speed the code is better to use a PCA before the training, in this way the training and convergence will be easier and faster.
