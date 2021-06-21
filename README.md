@@ -1,7 +1,7 @@
 # Exercise MNIST classification with MLP
 In these few rows of code is shown how to make a classification of the MNIST dataset using a Multilayer Perceptron.
 
-This is a naive example, in fact here we don't control every single layer of the NN (for example we can use only 1 kind of application functions), if we want to be more flexible it's better to use different libraries like Keras or Pytorch.
+This is a naive example, in fact here we don't control every single layer of the NN (for example we can use only 1 kind of application functions), if we want to be more flexible it's better to use different libraries like Keras or Pytorch instead of Sklearn.
 
 To speed the code is better to use a PCA before the training, in this way the training and convergence will be easier and faster.
 
