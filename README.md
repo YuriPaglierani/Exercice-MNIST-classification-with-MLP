@@ -12,3 +12,5 @@ If you want to run the code on your device make sure that you've downloaded (and
 The MNIST (Modified National Institute of Standards and Technology database) is a database containing 70000 handwritten images in white and black.
 
 In the images are drawn numbers between 0 and 9, so the program will try to understand what number is represented in a given image 
+
+I've studied the fundamentals from the course of Machine Learning in Python developed by Profession AI, if you want to know more about these topics I'm happy to recommend you this course :)
