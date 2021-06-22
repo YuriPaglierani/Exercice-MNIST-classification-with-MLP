@@ -7,7 +7,7 @@ To speed the code is better to use a PCA before the training, in this way the tr
 
 If you have some questions, suggestions or you notice mistakes I will be happy to talk with you.
 
-I've studied the fundamentals from the italian course of Machine Learning in Python developed by Profession.AI, if you want to know more about these topics I'm happy to recommend you [this course](https://www.udemy.com/course/machine-learning-pratico/learn/lecture/11032257?start=2#overview) (I've no partnerships with them) :)
+I've studied the fundamentals from the italian course of Machine Learning in Python developed by Profession.AI, if you want to know more about these topics I'm happy to recommend you [this course](https://www.udemy.com/course/machine-learning-pratico/learn/lecture/11032257?start=2#overview) (I've no partnerships with them, but the contents are clear)
 ## Dataset
 If you want to run the code on your device make sure that you've downloaded (and put on the same folder of your code) the 4 files of MNIST dataset, you can find them clicking [here](http://yann.lecun.com/exdb/mnist/)
 ## What is MNIST?
