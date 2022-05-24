@@ -86,7 +86,7 @@ mlp = MLPClassifier(hidden_layer_sizes=hl_size,
 
 print(f"Size of the Multilayer Perceptron: {hl_size}")
 
-"""### Cross valuation on the Multilayer Perceptron"""
+"""### Cross validation on the Multilayer Perceptron"""
 
 start_time = time()
 score = cross_val_score(mlp, X_train, Y_train, cv=10)
